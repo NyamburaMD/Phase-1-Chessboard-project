@@ -15,7 +15,8 @@ const createChessboard = () => {
             chessboard.appendChild(tile);
         }
     }
-};
+}
+});
 
 // Define initial pieces positions
 const initialPieces = {
